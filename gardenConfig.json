@@ -1,0 +1,13 @@
+{
+  "channelId": "120363401729065278@newsletter",
+  "updateInterval": 3600000,
+  "lowStockThreshold": 5,
+  "categories": [
+    "seeds",
+    "gear",
+    "eggs",
+    "cosmetics",
+    "honey"
+  ],
+  "apiUrl": "https://api.nekorinn.my.id/info/growagarden-stock"
+}
